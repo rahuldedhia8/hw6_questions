@@ -1,0 +1,16 @@
+1) What is an API?
+Stands for Application programming interface and is used mainly for huge data sets that are constantly changing with time. 
+Like stock prices, currency conversion, oil prices, etc. It is a way for two applications or computers to talk to each other
+
+
+2) What is JSON? Why do developers use it?
+JSON stands for Java script Object Notation. It is used for serializing and transmitting data over a network. Primarily used 
+to sene data back and forth from application to web servers. 
+
+3) What does data.birds[1].members[2] do?
+This helps create a path through the data to find something specific that you are looking for. For example Daniel was looking 
+for the crozet shag so he accordingly created a path to get to the crazets specific data set. 
+
+4) What is a "callback"?
+Any function that is to be executed after another function has finished executing. It could also be an object because ultimately
+all functions are objects in javascript. 
